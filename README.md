@@ -14,7 +14,7 @@ I write about AI workflows, agent architecture, and practical AI deployment acro
 
 ### Featured Projects
 
-🧩 [nano-ontoprompt](https://github.com/jingw2/nano-ontoprompt) ![stars](https://img.shields.io/github/stars/jingw2/nano-ontoprompt?style=social) — Lightweight Ontology-aware prompt framework for business AI agents
+🧩 [ontexus](https://github.com/jingw2/ontexus) ![stars](https://img.shields.io/github/stars/jingw2/ontexus?style=social) — Lightweight Ontology-aware prompt framework for business AI agents
 
 ⚙️ [microharness](https://github.com/jingw2/microharness) ![stars](https://img.shields.io/github/stars/jingw2/microharness?style=social) — Minimal LangGraph Agent Harness in ~400 lines; all 5 core layers covered
 
