@@ -14,7 +14,7 @@
 
 ### 精选项目
 
-🧩 [nano-ontoprompt](https://github.com/jingw2/nano-ontoprompt) ![stars](https://img.shields.io/github/stars/jingw2/nano-ontoprompt?style=social) — 轻量级 Ontology 感知 Prompt 框架，面向业务 AI Agent
+🧩 [ontexus](https://github.com/jingw2/nano-ontoprompt) ![stars](https://img.shields.io/github/stars/jingw2/nano-ontoprompt?style=social) — 轻量级 Ontology 感知 Prompt 框架，面向业务 AI Agent
 
 ⚙️ [microharness](https://github.com/jingw2/microharness) ![stars](https://img.shields.io/github/stars/jingw2/microharness?style=social) — ~400 行代码的 LangGraph Agent Harness，覆盖五大核心层
 
